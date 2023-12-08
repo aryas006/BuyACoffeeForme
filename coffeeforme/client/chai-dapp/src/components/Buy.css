@@ -1,0 +1,50 @@
+.mainComp {
+    background-color: rgba(148, 130, 15, 0.486);
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    box-shadow: 10px;
+    border-radius: 20px;
+
+
+}
+
+input {
+    background-color: white;
+    font-size: 20px;
+    padding: 5px;
+
+    margin: 1px;
+    border: none;
+
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #FFDD00;
+}
+
+.pay-button {
+    width: 100%;
+
+
+}
+
+.coffee {
+    height: 300px;
+}
+
+
+
+.quote {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
